@@ -1,0 +1,24 @@
+MEINE ZEIT – Einrichtung auf GitHub Pages
+
+1. ZIP entpacken. Den Inhalt des entpackten Ordners hochladen, sodass index.html direkt im Hauptverzeichnis des Repositorys liegt.
+2. GitHub: Settings > Pages > Build and deployment > Source: Deploy from a branch.
+3. Branch: main, Ordner: / (root). Save. Einige Minuten warten.
+4. Den von GitHub angezeigten Link am iPhone in Safari öffnen.
+5. Teilen > Zum Home-Bildschirm. Die App danach über dieses Symbol starten.
+6. Nach dem ersten Online-Start einmal schließen und erneut öffnen, damit die Offline-Dateien bereitstehen.
+
+BEDIENUNG
+- Kalendertag antippen, Beginn/Ende und Pause eintragen, Speichern.
+- Standardpause: 60 Minuten. Je Eintrag anpassbar.
+- Jetzt starten/beenden erfasst die Uhrzeiten. Es gibt pro Tag einen Eintrag. Nachtarbeit wird dem Starttag zugeordnet.
+- Monatsauswahl über Pfeile oder das Monatsfeld.
+- Voreinstellung: 32 Stunden/Woche. Automatisches Monatssoll = Anzahl Montag–Freitag × 6,4 Stunden. Keine automatische Feiertagsbereinigung. Das tatsächlich vereinbarte Monatssoll in den Einstellungen eintragen.
+- Wochenziel und Monatssoll werden je Monat gespeichert. Die Wochenanzeige ist eine Orientierung; die Monatsabrechnung verwendet das eingestellte Monatssoll.
+- Übertrag leer: vorheriger Saldo; erster erfasster Monat beginnt bei 0. Nach einer Auszahlung einen festen Übertrag von 0 setzen.
+- PDF über Monatsnachweis / PDF und den Druckdialog erstellen.
+- Regelmäßig Backup speichern. Ein Backup kann die Daten auf ein anderes Gerät übertragen.
+
+DATEN
+Die Daten werden nur im Browser des verwendeten Geräts gespeichert. Kein Konto, keine automatische Synchronisierung. Ein öffentlicher GitHub-Code enthält keine später eingetragenen Arbeitszeiten. Beim Löschen von Browser-/Websitedaten können die Einträge verloren gehen. Backups sicher aufbewahren.
+
+Die erneut zusammengestellte Version wurde auf JavaScript-Syntax, die Kernberechnungen und Archivinhalt geprüft; die Darstellung auf einem echten iPhone ist noch zu prüfen.
