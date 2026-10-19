@@ -22,3 +22,5 @@ DATEN
 Die Daten werden nur im Browser des verwendeten Geräts gespeichert. Kein Konto, keine automatische Synchronisierung. Ein öffentlicher GitHub-Code enthält keine später eingetragenen Arbeitszeiten. Beim Löschen von Browser-/Websitedaten können die Einträge verloren gehen. Backups sicher aufbewahren.
 
 Die erneut zusammengestellte Version wurde auf JavaScript-Syntax, die Kernberechnungen und Archivinhalt geprüft; die Darstellung auf einem echten iPhone ist noch zu prüfen.
+
+PDF-Update: Kompaktes A4-Layout mit automatischer Verkleinerung bei vielen Notizen. Bei eigenen Druckeinstellungen A4 und 100 % wählen.
